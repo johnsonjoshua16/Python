@@ -50,3 +50,24 @@ We are on [Discord](https://the-algorithms.com/discord) and [Gitter](https://git
 ## 📜 List of Algorithms
 
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
+
+## 📊 Project Stats (live)
+
+- Algorithms: 1200+  
+- Contributors: 1400+  
+- GitHub Stars: 210,000+  
+- Languages supported: Python (primary)
+
+## 🧠 Why This Project Exists
+
+- 📚 To provide clean, educational implementations of classic and modern algorithms  
+- 🛠️ To serve as a reference, teaching tool, and foundation for project work  
+- 🌐 To enable community-driven growth, contributions, & code reviews  
+
+## 🧭 Quick Start
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/TheAlgorithms/Python.git
+   cd Python
+
